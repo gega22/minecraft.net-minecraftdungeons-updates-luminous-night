@@ -1,0 +1,128 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+.signup{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+}
+body{
+    background: url('background1.webp');
+    background-repeat: no-repeat;    
+    background-attachment: fixed;
+    background-size: cover;
+}
+.start1{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.start2{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.start3{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.start4{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.tower1{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: orangered;
+}
+.tower2{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: orangered;
+}
+.tower3{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: aquamarine;
+}
+.tower4{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.tower5{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: aquamarine;
+}
+.tower6{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.img2{
+    width: 500px;
+}
+.imp1{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: orange;
+}
+.imp2{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: orangered;
+}
+.imp3{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: orangered;
+}
+.imp4{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.imp5{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: gold;
+}
+.imp6{
+    font-size: 30px;
+    font-family: 'Minecraft', sans-serif;
+    color: goldenrod;
+}
+.pass1{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.pass2{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.pass3{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.pass4{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.pass5{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: brown;
+}
+.pass6{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: burlywood;
+}
+.battlepass-link{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif; 
+}
